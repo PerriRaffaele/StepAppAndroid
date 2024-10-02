@@ -3,5 +3,5 @@
     <string name="start_btn">Start</string>
     <string name="step_btn">Count</string>
     <string name="show_count">0</string>
-    <string name="counterStarted"></string>
+    <string name="counterStarted">Counter Started</string>
 </resources>
